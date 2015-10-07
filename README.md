@@ -18,6 +18,6 @@ Följande rapporteras:
 
 
 #Optioner
-`-f *flygplats*` anger vilken flygplats man får rapportering om
-`-u` uppdaterar scriptet till senaste version
+`-f *flygplats*` anger vilken flygplats man får rapportering om  
+`-u` uppdaterar scriptet till senaste version  
 `-d` slår på debug-information
