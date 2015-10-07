@@ -18,6 +18,7 @@ Följande rapporteras:
  - Relativ fuktighet
  - Lufttryck
 
+*Om flygplatsen är Sturup redovisas f.n. även cykelinformation för de som cyklar till/från Södra Sandby. Detta skall ändras till en generell funktion någon gång i framtiden... :-)*
 
 #Optioner
 `-f flygplats` anger vilken flygplats man får rapportering om (ICAO, IATA eller bara flygplatsens namn)  
