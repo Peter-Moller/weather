@@ -15,3 +15,9 @@ Följande rapporteras:
  - Vindriktning, både i grader och i bokstäver
  - Relativ fuktighet
  - Lufttryck
+
+
+#Optioner
+`-f *flygplats*` anger vilken flygplats man får rapportering om
+`-u` uppdaterar scriptet till senaste version
+`-d` slår på debug-information
