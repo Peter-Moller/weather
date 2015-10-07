@@ -8,7 +8,7 @@ Since this script is only applicable in Sweden, the rest of the comments are in 
 #Funktion
 Scriptet tar flygplats som inparameter och läser sedan METAR-strängen från `aro.lfv.se`.
 
-Flygplatsen kan man ange enligt `ICAO`(ESMS), `IATA`(MMX) eller bara flygplatsens namn (”Malmö”).
+Flygplatsen kan man ange enligt `ICAO`(”ESMS”), `IATA`(”MMX”) eller bara flygplatsens namn (”Malmö”).
 
 Följande rapporteras:
  - Temperatur **inklusive** vindavkylning!
