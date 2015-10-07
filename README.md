@@ -18,6 +18,6 @@ Följande rapporteras:
 
 
 #Optioner
-`-f *flygplats*` anger vilken flygplats man får rapportering om  
+`-f flygplats` anger vilken flygplats man får rapportering om (ICAO, IATA eller bara flygplatsens namn)  
 `-u` uppdaterar scriptet till senaste version  
 `-d` slår på debug-information
