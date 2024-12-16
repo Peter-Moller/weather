@@ -24,3 +24,6 @@ Följande rapporteras:
 `-f flygplats` anger vilken flygplats man får rapportering om (ICAO, IATA eller bara flygplatsens namn)  
 `-u` uppdaterar scriptet till senaste version  
 `-m` visar METAR-strängen i outputen
+
+## METAR
+Metar står för ”METeorological Aerodrome Report” och du kan läsa mer om det [här](https://sv.wikipedia.org/wiki/METAR).
