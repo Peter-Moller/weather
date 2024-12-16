@@ -1,0 +1,41 @@
+## Lista på svenska flygplatser
+## IATA	ICAO	Namn
+AGH	ESTA	Ängelholm Helsingborgs flygplats
+OSD	ESNZ	Åre Östersunds flygplats
+AJR	ESNX	Arvidsjaurs flygplats
+BLE	ESSD	Borlänge, Dala Airport
+GEV	ESNG	Gällivare flygplats
+GOT	ESGG	Göteborg-Landvetter flygplats
+HFS	ESOH	Hagfors flygplats
+HAD	ESMT	Halmstads flygplats
+HMV	ESUT	Hemavan Tärnaby Airport
+JKG	ESGJ	Jönköpings flygplats
+KLR	ESMQ	Kalmar flygplats
+KSD	ESOK	Karlstads flygplats
+KRN	ESNQ	Kiruna flygplats
+KRF	ESNK	Kramfors-Sollefteå Höga Kustens flygplats
+KID	ESMK	Kristianstad Österlen Airport
+LPI	ESSL	Linköping-Saabs flygplats
+LLA	ESPA	Luleå-Kallax flygplats
+LYC	ESNL	Lycksele flygplats
+MMX	ESMS	Malmö Airport (Sturup)
+MXX	ESKM	Mora-Siljan flygplats
+NRK	ESSP	Norrköping-Kungsängens flygplats
+ORB	ESOE	Örebro flygplats
+OER	ESNO	Örnsköldsvik Airport
+PJA	ESUP	Pajala Airport
+RNB	ESDF	Ronneby Airport
+SCR	ESKS	Sälen-Scandinavian Mountains flygplats
+SFT	ESNS	Skellefteå flygplats
+NYO	ESKN	Stockholm Skavsta flygplats (Nyköping)
+ARN	ESSA	Stockholm-Arlanda flygplats
+BMA	ESSB	Stockholm-Bromma flygplats
+VST	ESOW	Stockholm-Västerås flygplats
+SDL	ESNN	Sundsvall-Timrå flygplats (Midlanda)
+EVG	ESND	Sveg Härjedalens flygplats
+TYF	ESST	Torsby flygplats (Fryklanda)
+THN	ESGT	Trollhättan-Vänersborgs flygplats
+UME	ESNU	Umeå Airport
+VXO	ESMX	Växjö-Kronobergs flygplats
+VHM	ESNV	Vilhelmina flygplats
+VBY	ESSV	Visby flygplats
